@@ -27,7 +27,7 @@ function Footer() {
             <Link to="/contact">Contact</Link>
             <Link to="/about">Resume</Link>
             <a href="mailto:contact@natharam.in" target="_blank">
-              Need any help?
+              Email Me
             </a>
           </div>
         </div>
