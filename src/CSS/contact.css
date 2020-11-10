@@ -1,0 +1,22 @@
+.contact {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  background-image: url("/images/img-1.jpg");
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  color: #fff;
+}
+
+.contact-heading {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.contact-name, .contact-phone, .contact-email {
+    margin: 0.5rem;
+    font-size: 1.2rem;
+}
