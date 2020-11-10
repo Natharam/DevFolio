@@ -38,7 +38,7 @@ const About = () => {
               </p>
             </div>
           </div>
-          <button className="download-cv">Download CV</button>
+          <button className="download-cv" disabled>Download CV</button>
         </div>
       </div>
     </div>
