@@ -18,7 +18,14 @@ const About = () => {
             developement. I have acquired the skills necessary to build great
             and premium websites. You can hire me by directly reaching out to
             me. Check out my work on{" "}
-            <a href="https://github.com/Natharam" target="_blank" rel="noopener noreferrer">Github</a>.
+            <a
+              href="https://github.com/Natharam"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Github
+            </a>
+            .
           </p>
           <div className="my-details">
             <div className="my-data">
@@ -38,7 +45,16 @@ const About = () => {
               </p>
             </div>
           </div>
-          <button className="download-cv" disabled>Download CV</button>
+          <a
+            href="https://drive.google.com/file/d/1pGf_N_b6YTqJUuYkYdqAfuMsZ2d-cDyX/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="cv"
+          >
+            <button className="download-cv">
+              Download CV
+            </button>
+          </a>
         </div>
       </div>
     </div>

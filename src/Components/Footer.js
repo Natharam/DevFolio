@@ -26,7 +26,11 @@ function Footer() {
             <h2>Contact Me</h2>
             <Link to="/contact">Contact</Link>
             <Link to="/about">Resume</Link>
-            <a href="mailto:contact@natharam.in" target="_blank">
+            <a
+              href="mailto:contact@natharam.in"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Email Me
             </a>
           </div>
