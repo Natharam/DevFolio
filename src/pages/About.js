@@ -19,6 +19,7 @@ const About = () => {
             and premium websites. You can hire me by directly reaching out to
             me. Check out my work on{" "}
             <a
+              style={{color: white}}
               href="https://github.com/Natharam"
               target="_blank"
               rel="noopener noreferrer"
