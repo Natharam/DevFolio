@@ -15,11 +15,11 @@ const About = () => {
             My name is Natha Ram, I'm a Front-End(ReactJS) developer at Virtual
             Heights IT Services Private Limited Ahmedabad. I am very passionate
             and dedicated to my work. I have 8 month experience in front-end
-            developement. I have acquired the skills necessary to build great
+            development. I have acquired the skills necessary to build great
             and premium websites. You can hire me by directly reaching out to
             me. Check out my work on{" "}
             <a
-              style={{color: white}}
+              // style={{color: white}}
               href="https://github.com/Natharam"
               target="_blank"
               rel="noopener noreferrer"
