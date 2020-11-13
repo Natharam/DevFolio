@@ -14,7 +14,7 @@ const About = () => {
           <p className="my-position">
             My name is Natha Ram, I'm a Front-End(ReactJS) developer at Virtual
             Heights IT Services Private Limited Ahmedabad. I am very passionate
-            and dedicated to my work. I have 8 month experience in front-end
+            and dedicated to my work. I have 1 year experience in front-end
             development. I have acquired the skills necessary to build great
             and premium websites. You can hire me by directly reaching out to
             me. Check out my work on{" "}
@@ -47,7 +47,7 @@ const About = () => {
             </div>
           </div>
           <a
-            href="https://drive.google.com/file/d/1pGf_N_b6YTqJUuYkYdqAfuMsZ2d-cDyX/view?usp=sharing"
+            href="https://docs.google.com/document/d/1HsN_inJB-reCrSRrxcw6vzCxApYOFUrjdK-WjxNAHb8/edit?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="cv"
