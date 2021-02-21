@@ -3,11 +3,11 @@
   height: 90vh;
   align-items: center;
   justify-content: center;
-  background-image: url("/images/img-1.jpg");
+  background: rgb(202, 202, 202);
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
-  color: #fff;
+  color: #000;
 }
 
 .contact-heading {

@@ -39,20 +39,6 @@ function Footer() {
           <div className="footer-link-items">
             <h2>Social Media</h2>
             <a
-              href="https://www.instagram.com/jaipal_natha_45_/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Instagram
-            </a>
-            <a
-              href="https://www.facebook.com/natharam.jaipal/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Facebook
-            </a>
-            <a
               href="https://github.com/Natharam"
               target="_blank"
               rel="noopener noreferrer"
@@ -65,6 +51,20 @@ function Footer() {
               rel="noopener noreferrer"
             >
               LinkedIn
+            </a>
+            <a
+              href="https://www.instagram.com/jaipal_natha_45_/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Instagram
+            </a>
+            <a
+              href="https://www.facebook.com/natharam.jaipal/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Facebook
             </a>
           </div>
         </div>

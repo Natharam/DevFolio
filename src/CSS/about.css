@@ -1,7 +1,7 @@
 .about {
   height: auto;
   min-height: 90vh;
-  background-color: rgba(19, 9, 36, 0.9);
+  background-color: rgba(112, 98, 136, 0.9);
 }
 
 .my-info {
@@ -45,6 +45,11 @@
   letter-spacing: .45px;
 }
 
+.my-position a {
+  text-decoration: none;
+  font-weight: 600;
+}
+
 .my-details {
   margin-top: 1.5rem;
   display: inline-flex;
@@ -65,8 +70,9 @@
 
 .download-cv {
   margin-top: 1.5rem;
+  padding: 3px 14px;
   height: 40px;
-  width: 120px;
+  width: auto;
   color: white;
   border: none;
   outline: none;

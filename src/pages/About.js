@@ -6,20 +6,18 @@ const About = () => {
     <div className="about">
       <div className="my-info">
         <div className="my-image">
-          <img src="images/natha1.jpg" alt="MyImage" />
+          <img src="images/male-avatar.png" alt="MyImage" />
         </div>
         <div className="about-me">
           <p className="heading">About Me</p>
           <p className="line"></p>
           <p className="my-position">
-            My name is Natha Ram, I'm a Front-End(ReactJS) developer at Virtual
-            Heights IT Services Private Limited Ahmedabad. I am very passionate
+            My name is Natha Ram, I'm a Front-End(ReactJS) developer at Acuments. I am very passionate
             and dedicated to my work. I have 1 year experience in front-end
             development. I have acquired the skills necessary to build great
             and premium websites. You can hire me by directly reaching out to
             me. Check out my work on{" "}
             <a
-              // style={{color: white}}
               href="https://github.com/Natharam"
               target="_blank"
               rel="noopener noreferrer"
@@ -53,7 +51,7 @@ const About = () => {
             className="cv"
           >
             <button className="download-cv">
-              Download CV
+              Download CV / Resume
             </button>
           </a>
         </div>
